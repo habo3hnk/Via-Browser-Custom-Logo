@@ -3,6 +3,7 @@
 This repository contains HTML, CSS, and JavaScript code for creating a custom animated logo in Via Browser. The logo displays a random GIF from Giphy based on a specified tag and includes a loading animation while the GIF is being fetched.
 
 ![example](media/example.gif)
+<img src="media/example.gif" height="400" alt="example">
 
 ## How to Use
 
